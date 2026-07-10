@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Stefan Loå
 
-<!--
-**Stefan-Sevran/Stefan-Sevran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building conversational AI, multilingual AI systems, and AI evaluation workflows.
 
-Here are some ideas to get you started:
+Former UN economist and founder of Eden Clinic Network, where I'm developing AI receptionists for healthcare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Portfolio
+https://stefanloa.carrd.co
+
+## 🏥 Current Project
+https://clinicnet.live
+
+## 💻 GitHub
+https://github.com/Stefan-Sevran
+
+## 📍 Location
+Pattaya, Thailand
+
+## 💬 Languages
+Swedish (Native) • English (C2)
+
+## 🚀 Interests
+- Conversational AI
+- LLM Evaluation
+- Prompt Engineering
+- AI Automation
+- Healthcare AI
