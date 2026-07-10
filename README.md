@@ -37,3 +37,14 @@ Swedish (Native) • English (C2)
 - Prompt Engineering
 - AI Automation
 - Healthcare AI
+
+- ## Current Projects
+
+### 🏥 Eden Clinic Network
+Developing AI receptionists, intelligent booking assistants, and conversational AI for healthcare clinics.
+
+### 🤖 AI Evaluation
+LLM evaluation, prompt engineering, multilingual quality assurance, and AI testing across leading AI platforms.
+
+### 🌍 Healthcare Automation
+Building AI workflows that reduce missed bookings, improve patient communication, and automate clinic operations.
